@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-24T18:41:08.587Z",
+ "generated": "2026-11-24T20:17:22.097Z",
  "min_app": 1,
  "packs": [
   {
@@ -61,10 +61,10 @@
   },
   {
    "name": "city_misc",
-   "file": "city_misc-bcb053ae3b9a2624.pck",
-   "hash": "bcb053ae3b9a2624",
-   "size": 27865716,
-   "sha256": "10ce8b240450dbf64d836de6f71951388512c1ae08b2beb598aade69418955d7",
+   "file": "city_misc-b3ce18872f795f26.pck",
+   "hash": "b3ce18872f795f26",
+   "size": 62109264,
+   "sha256": "1966d24719b68370eeeb175a68a7eb4e6369bc91fc817aca5e669daa48721314",
    "required": true
   },
   {
