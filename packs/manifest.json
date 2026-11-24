@@ -1,14 +1,22 @@
 {
  "format": 1,
- "generated": "2026-11-24T10:35:30.659Z",
+ "generated": "2026-11-24T14:14:06.076Z",
  "min_app": 1,
  "packs": [
   {
+   "name": "assets_animations",
+   "file": "assets_animations-9c6f207b8cb982cf.pck",
+   "hash": "9c6f207b8cb982cf",
+   "size": 23028992,
+   "sha256": "3e4dac0d255336771253827aef534737c64a939f3c8d069555ea7be9dc13db09",
+   "required": true
+  },
+  {
    "name": "assets_characters",
-   "file": "assets_characters-f1274461b99794bf.pck",
-   "hash": "f1274461b99794bf",
-   "size": 74809692,
-   "sha256": "f25b0bf4d48c11fa6b384db041227f14012e90dc3e64c6450cb051e1d6ce5ae4",
+   "file": "assets_characters-5533bdcd3131b511.pck",
+   "hash": "5533bdcd3131b511",
+   "size": 33575184,
+   "sha256": "bde03047d627432af5fb85ce9cc138ff19c24dbeb1bb198fc6d1829efa144a72",
    "required": true
   },
   {
@@ -17,7 +25,7 @@
    "hash": "81bba9f4ae85003a",
    "size": 585700,
    "sha256": "aec091317e95a0c0cc8a12ef86cb9c0e741d27f6cb3dc6f3acb32282cfd6b21c",
-   "required": true
+   "required": false
   },
   {
    "name": "assets_kits",
@@ -25,7 +33,7 @@
    "hash": "b4dfb5511453de74",
    "size": 69275748,
    "sha256": "7384cecb93f7d32a66db746e0258b8cd98b0c989bbd7d86a7cdd2072f203e4de",
-   "required": true
+   "required": false
   },
   {
    "name": "assets_misc",
@@ -41,14 +49,22 @@
    "hash": "7d4ed4ed12179297",
    "size": 89731536,
    "sha256": "462da57121d5ab6ea9009ad640d6ee5b620c093fbd39e55f52a4037f94eaec8d",
-   "required": true
+   "required": false
   },
   {
    "name": "city_common",
-   "file": "city_common-27ffeaf807a161e4.pck",
-   "hash": "27ffeaf807a161e4",
-   "size": 180380,
-   "sha256": "1bd5cbbb8fcd443d460163c25dcefdc235af53762977731aced34aa6a5247a11",
+   "file": "city_common-d5bc06b4b516a47f.pck",
+   "hash": "d5bc06b4b516a47f",
+   "size": 695124,
+   "sha256": "71d17dba31b0296a348ef335423840d6d6fe2e58a8d57ca7e0468e1db56308db",
+   "required": false
+  },
+  {
+   "name": "city_misc",
+   "file": "city_misc-c357822f19f1bca6.pck",
+   "hash": "c357822f19f1bca6",
+   "size": 19797508,
+   "sha256": "00cdeaf5ca55e7cba8c05adc2cf4c3830851e06b3d9e3fbbde2e947bac1cdfce",
    "required": true
   },
   {
@@ -113,7 +129,7 @@
    "hash": "c50f7a7b5f0cf545",
    "size": 6847544,
    "sha256": "74b355a356f59765249f212a70d838fa671690aa9427eb67811cb8927dffd6c2",
-   "required": true
+   "required": false
   },
   {
    "name": "district_diobu",
@@ -442,6 +458,14 @@
    "size": 4921176,
    "sha256": "d3dd990424fee7187626ad1212d02780ba7469b2950a1fbb0daf00c087c0ae15",
    "required": false
+  },
+  {
+   "name": "vehicles_misc",
+   "file": "vehicles_misc-b55c9f83ecfb673c.pck",
+   "hash": "b55c9f83ecfb673c",
+   "size": 18309788,
+   "sha256": "0108dd6741027183589ac71fd1863011c17b04d913ceec446636e1f0ebcd32c8",
+   "required": true
   }
  ]
 }
