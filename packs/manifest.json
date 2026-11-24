@@ -1,0 +1,447 @@
+{
+ "format": 1,
+ "generated": "2026-11-24T10:35:30.659Z",
+ "min_app": 1,
+ "packs": [
+  {
+   "name": "assets_characters",
+   "file": "assets_characters-f1274461b99794bf.pck",
+   "hash": "f1274461b99794bf",
+   "size": 74809692,
+   "sha256": "f25b0bf4d48c11fa6b384db041227f14012e90dc3e64c6450cb051e1d6ce5ae4",
+   "required": true
+  },
+  {
+   "name": "assets_furniture",
+   "file": "assets_furniture-81bba9f4ae85003a.pck",
+   "hash": "81bba9f4ae85003a",
+   "size": 585700,
+   "sha256": "aec091317e95a0c0cc8a12ef86cb9c0e741d27f6cb3dc6f3acb32282cfd6b21c",
+   "required": true
+  },
+  {
+   "name": "assets_kits",
+   "file": "assets_kits-b4dfb5511453de74.pck",
+   "hash": "b4dfb5511453de74",
+   "size": 69275748,
+   "sha256": "7384cecb93f7d32a66db746e0258b8cd98b0c989bbd7d86a7cdd2072f203e4de",
+   "required": true
+  },
+  {
+   "name": "assets_misc",
+   "file": "assets_misc-0b2e25ed41b64eb9.pck",
+   "hash": "0b2e25ed41b64eb9",
+   "size": 183144,
+   "sha256": "b1e3fd988a5145007dc14003feded31b20cafb98639b195abc9a80ae71984db6",
+   "required": true
+  },
+  {
+   "name": "assets_vehicles",
+   "file": "assets_vehicles-7d4ed4ed12179297.pck",
+   "hash": "7d4ed4ed12179297",
+   "size": 89731536,
+   "sha256": "462da57121d5ab6ea9009ad640d6ee5b620c093fbd39e55f52a4037f94eaec8d",
+   "required": true
+  },
+  {
+   "name": "city_common",
+   "file": "city_common-27ffeaf807a161e4.pck",
+   "hash": "27ffeaf807a161e4",
+   "size": 180380,
+   "sha256": "1bd5cbbb8fcd443d460163c25dcefdc235af53762977731aced34aa6a5247a11",
+   "required": true
+  },
+  {
+   "name": "district_abuloma",
+   "file": "district_abuloma-3f240c87f89f1fee.pck",
+   "hash": "3f240c87f89f1fee",
+   "size": 1514124,
+   "sha256": "3be7a90e7d0e87931a753a19265d3e5951aef1ec23ac26e320b2c7dc823fb3a6",
+   "required": false
+  },
+  {
+   "name": "district_adageorge",
+   "file": "district_adageorge-bdbbc450301cbd4b.pck",
+   "hash": "bdbbc450301cbd4b",
+   "size": 2445696,
+   "sha256": "113af4daa1c83cb3e7293c8244dc1041029fda0fd454d08743ec27cad948c1ca",
+   "required": false
+  },
+  {
+   "name": "district_alakahia",
+   "file": "district_alakahia-a9606af3df4f0adc.pck",
+   "hash": "a9606af3df4f0adc",
+   "size": 1257248,
+   "sha256": "3560588e77feacbb5971eb956c3b57b81bcfce29263c719abcc4f48df72c9533",
+   "required": false
+  },
+  {
+   "name": "district_aluu",
+   "file": "district_aluu-9b094836fc82d8b2.pck",
+   "hash": "9b094836fc82d8b2",
+   "size": 1606712,
+   "sha256": "99e55bd8e500e71e4c07c104700254037957d778c1042947a6f68874ca037b9a",
+   "required": false
+  },
+  {
+   "name": "district_amadi_ama",
+   "file": "district_amadi_ama-d909425bc32ce534.pck",
+   "hash": "d909425bc32ce534",
+   "size": 1458064,
+   "sha256": "61bf0bd1477aed72c0cfc88482c7747a59439a81974e58d5f961fe7e851c4270",
+   "required": false
+  },
+  {
+   "name": "district_borokiri",
+   "file": "district_borokiri-b48cf87f99a9a442.pck",
+   "hash": "b48cf87f99a9a442",
+   "size": 2897632,
+   "sha256": "cb69a75e35e6993ef0e88e14d4f6fc995e64e39ae2e1363be667eb95181afc9c",
+   "required": false
+  },
+  {
+   "name": "district_choba",
+   "file": "district_choba-d8fa354e1184e8bc.pck",
+   "hash": "d8fa354e1184e8bc",
+   "size": 998760,
+   "sha256": "e5811e7e019f983490fc88e1416140bf8b01010c60179b4453658aa2ba418f77",
+   "required": false
+  },
+  {
+   "name": "district_core",
+   "file": "district_core-c50f7a7b5f0cf545.pck",
+   "hash": "c50f7a7b5f0cf545",
+   "size": 6847544,
+   "sha256": "74b355a356f59765249f212a70d838fa671690aa9427eb67811cb8927dffd6c2",
+   "required": true
+  },
+  {
+   "name": "district_diobu",
+   "file": "district_diobu-56d79870bbd2f9ab.pck",
+   "hash": "56d79870bbd2f9ab",
+   "size": 3046488,
+   "sha256": "56b5f6e1fb5f9b74bf5429bff08843a4fa8985eca12cb73eb8d94801c7ae8f4e",
+   "required": false
+  },
+  {
+   "name": "district_dobu",
+   "file": "district_dobu-01b975203adf462c.pck",
+   "hash": "01b975203adf462c",
+   "size": 2962776,
+   "sha256": "86874e8c94737d30d11776a802895561e2cbe32555d3e06229942b7313f55d24",
+   "required": false
+  },
+  {
+   "name": "district_eagle_island",
+   "file": "district_eagle_island-d9273e6647c9984c.pck",
+   "hash": "d9273e6647c9984c",
+   "size": 1050264,
+   "sha256": "43ab4b2fb78e6a7e91c09d6182b938db52ac4d367f18ff3c2dcaa9f7462e9614",
+   "required": false
+  },
+  {
+   "name": "district_elekahia",
+   "file": "district_elekahia-3749cb3ae19aae62.pck",
+   "hash": "3749cb3ae19aae62",
+   "size": 2535088,
+   "sha256": "c100ff02f9e314546f93f4c3859eb5fed04ac8f193a9cf9df526b7e8fd571b46",
+   "required": false
+  },
+  {
+   "name": "district_elelenwo",
+   "file": "district_elelenwo-4879e655c53a061d.pck",
+   "hash": "4879e655c53a061d",
+   "size": 1147488,
+   "sha256": "be4864d135ff78717d40536615354fcd4def04defd7b944ccda46d0e306bec7f",
+   "required": false
+  },
+  {
+   "name": "district_eleme_junction",
+   "file": "district_eleme_junction-728bd962f435138c.pck",
+   "hash": "728bd962f435138c",
+   "size": 1211004,
+   "sha256": "82bf2ab96acb9081672db01d85b5880e7c90a4ad17c3fd22ab3bee6b6fc7cb8a",
+   "required": false
+  },
+  {
+   "name": "district_elimgbu",
+   "file": "district_elimgbu-55250e749382d2d0.pck",
+   "hash": "55250e749382d2d0",
+   "size": 1064556,
+   "sha256": "f41c37cf28d8e0dbe516243c4873980332c5432a6da0306bd8d7944098743b2f",
+   "required": false
+  },
+  {
+   "name": "district_eliogbolo",
+   "file": "district_eliogbolo-1574cd3569fb372d.pck",
+   "hash": "1574cd3569fb372d",
+   "size": 1269968,
+   "sha256": "b43f964f351fd0a3f69050f30550d3d5a5ee44231d07f98b97f3bd19d95051da",
+   "required": false
+  },
+  {
+   "name": "district_eliowhani",
+   "file": "district_eliowhani-3e675a71125a3b63.pck",
+   "hash": "3e675a71125a3b63",
+   "size": 1159168,
+   "sha256": "a28139d0493c0e4f480eec2c630765404bf33d8992f040d08af027170a0a4aa5",
+   "required": false
+  },
+  {
+   "name": "district_eliozu",
+   "file": "district_eliozu-69a295778e8763e9.pck",
+   "hash": "69a295778e8763e9",
+   "size": 1990908,
+   "sha256": "b06d6b0e853d3304a79e3bb70450843972d6ecc1bef74367799c8bdb9caec29a",
+   "required": false
+  },
+  {
+   "name": "district_eneka",
+   "file": "district_eneka-392813787023b9a6.pck",
+   "hash": "392813787023b9a6",
+   "size": 1029880,
+   "sha256": "722a6f100eb79af4f887f62d8a719e41b79e602ddf270c0babe7fcf7e021b0c5",
+   "required": false
+  },
+  {
+   "name": "district_golf",
+   "file": "district_golf-b4f180167ed627c6.pck",
+   "hash": "b4f180167ed627c6",
+   "size": 2082744,
+   "sha256": "e06472f8725fde93363ceee00514a37a7700180f06f25d23f92d36944b4c073d",
+   "required": false
+  },
+  {
+   "name": "district_gra",
+   "file": "district_gra-081274a60af23b64.pck",
+   "hash": "081274a60af23b64",
+   "size": 3357492,
+   "sha256": "67a9e75fed7a1c07faba139bfccd6047f90b7c8546dd5562530dea16c48991a6",
+   "required": false
+  },
+  {
+   "name": "district_iwofe",
+   "file": "district_iwofe-f25b953579cc7ecb.pck",
+   "hash": "f25b953579cc7ecb",
+   "size": 1097352,
+   "sha256": "f4b35bae04659e3b936b67461dde3ba66bdcf6b9df153f016d811db8c1f26721",
+   "required": false
+  },
+  {
+   "name": "district_mgbuoba",
+   "file": "district_mgbuoba-64ff4370e60bf1b4.pck",
+   "hash": "64ff4370e60bf1b4",
+   "size": 1223516,
+   "sha256": "69c829490523b71b055aa3ccb1b96d1b9414e24bbe6a6870d2aafb0af6ee25a6",
+   "required": false
+  },
+  {
+   "name": "district_mgbuosimini",
+   "file": "district_mgbuosimini-2e5ac343b29dd434.pck",
+   "hash": "2e5ac343b29dd434",
+   "size": 1264516,
+   "sha256": "7b24e758f0f4d56a50e518c2250b089b8228665c73dae482de220de7371d631c",
+   "required": false
+  },
+  {
+   "name": "district_nkpolu_oroworukwo",
+   "file": "district_nkpolu_oroworukwo-bb9b84efddf213cc.pck",
+   "hash": "bb9b84efddf213cc",
+   "size": 1546864,
+   "sha256": "eeb4312a31c1f388f1a096d84f450b5271392f9f951a8420dcdc4d9b8b67bcdc",
+   "required": false
+  },
+  {
+   "name": "district_obiri_ikwerre",
+   "file": "district_obiri_ikwerre-78128be27d400fe6.pck",
+   "hash": "78128be27d400fe6",
+   "size": 1463048,
+   "sha256": "7371223f01e94a86a6ff557b93615b49b410191ed948da10ce0811fa04b2e26b",
+   "required": false
+  },
+  {
+   "name": "district_odomey",
+   "file": "district_odomey-5416e39ce21a2a00.pck",
+   "hash": "5416e39ce21a2a00",
+   "size": 1242908,
+   "sha256": "c9d804b1f872d3fac62f4d0b7600f5dd85273cd533233ea352d57ed8ca84127a",
+   "required": false
+  },
+  {
+   "name": "district_ogbogoro",
+   "file": "district_ogbogoro-17f5ee9743b1d6a4.pck",
+   "hash": "17f5ee9743b1d6a4",
+   "size": 1093920,
+   "sha256": "f6872e607c942cb9014afc294a1165109558f869fa9c96f506b329991c78dae2",
+   "required": false
+  },
+  {
+   "name": "district_ogbunabali",
+   "file": "district_ogbunabali-aab3b005bfb5f444.pck",
+   "hash": "aab3b005bfb5f444",
+   "size": 1484996,
+   "sha256": "a50ff091808d78f87d4200e662368b0792cb1e918f836f54e01f705a978fb645",
+   "required": false
+  },
+  {
+   "name": "district_ozuoba",
+   "file": "district_ozuoba-757d3a037e45007f.pck",
+   "hash": "757d3a037e45007f",
+   "size": 1284396,
+   "sha256": "fb4f55ca86fda89dad17544005d4ee6875831d0fa3b608891bd6d04ed02bf5d7",
+   "required": false
+  },
+  {
+   "name": "district_rukpokwu",
+   "file": "district_rukpokwu-fb7ee107528e412b.pck",
+   "hash": "fb7ee107528e412b",
+   "size": 1505856,
+   "sha256": "97369e47a14a313cec02e18aa0286302bfe0cc71289f2a149feaabadf6a0290e",
+   "required": false
+  },
+  {
+   "name": "district_rumuagholu",
+   "file": "district_rumuagholu-238107bd5b87c3b6.pck",
+   "hash": "238107bd5b87c3b6",
+   "size": 1161956,
+   "sha256": "90b7a4341fd25875a0089c30fa341a37bd35871b64fc5c81cb2892949f72e9ae",
+   "required": false
+  },
+  {
+   "name": "district_rumuche",
+   "file": "district_rumuche-cd416532c1607bec.pck",
+   "hash": "cd416532c1607bec",
+   "size": 1541756,
+   "sha256": "e4b438620a60daf6a8634ccd437dd41bcf377a3d1f02061a5dd577626599bdb7",
+   "required": false
+  },
+  {
+   "name": "district_rumueme",
+   "file": "district_rumueme-315783be096e4580.pck",
+   "hash": "315783be096e4580",
+   "size": 2682572,
+   "sha256": "a3298b36fd11c999656108d41fb26dad90978936117728e11743af75c80807fd",
+   "required": false
+  },
+  {
+   "name": "district_rumuepirikom",
+   "file": "district_rumuepirikom-055e6d97f023f6e4.pck",
+   "hash": "055e6d97f023f6e4",
+   "size": 1048280,
+   "sha256": "31d4e4f4572b74bc88b901737187bee083182eddb2ab3d9929bbdc181b8ccbb1",
+   "required": false
+  },
+  {
+   "name": "district_rumuibekwe",
+   "file": "district_rumuibekwe-4cf778ff5821cc87.pck",
+   "hash": "4cf778ff5821cc87",
+   "size": 1192180,
+   "sha256": "9c501756dfbd6555ea89ef25ef260441fe9f08626ed1421d922a083db776c899",
+   "required": false
+  },
+  {
+   "name": "district_rumuigbo",
+   "file": "district_rumuigbo-4177fe4a8594483b.pck",
+   "hash": "4177fe4a8594483b",
+   "size": 2211408,
+   "sha256": "4435abd5e6d26990c56f1ce9225e87b0155e529544d69578808f98d743fc3944",
+   "required": false
+  },
+  {
+   "name": "district_rumuji",
+   "file": "district_rumuji-0b9e3df180f7ccfb.pck",
+   "hash": "0b9e3df180f7ccfb",
+   "size": 1310524,
+   "sha256": "0c8ccd45054223a9c925cc496114e79f48c896958568d7cb1b79d8d3b313c975",
+   "required": false
+  },
+  {
+   "name": "district_rumukalagbor",
+   "file": "district_rumukalagbor-c7ddf94b61b20088.pck",
+   "hash": "c7ddf94b61b20088",
+   "size": 2749592,
+   "sha256": "4f09574630c8d2189f9f4a74d466795b4c8b8bb144fe8c142b1e8a1de768d3ef",
+   "required": false
+  },
+  {
+   "name": "district_rumuo",
+   "file": "district_rumuo-137c500c74fd721b.pck",
+   "hash": "137c500c74fd721b",
+   "size": 5446792,
+   "sha256": "c10d2cfcd9665ab716319d1dd9fcd5fdfd3af81f25fbd95021306dea78883acd",
+   "required": false
+  },
+  {
+   "name": "district_rumuobiakani",
+   "file": "district_rumuobiakani-a8965437b05c8f54.pck",
+   "hash": "a8965437b05c8f54",
+   "size": 1457416,
+   "sha256": "37d84800165ea64de7c845e9b2214fc8d143f68a0a83ef0b128a2ebe3d3ac56c",
+   "required": false
+  },
+  {
+   "name": "district_rumuodara",
+   "file": "district_rumuodara-16e81cfd3dee9da5.pck",
+   "hash": "16e81cfd3dee9da5",
+   "size": 2070560,
+   "sha256": "ebd520caa98cd449acf54378679067f5e938e7564452896d7c8a7e171cadc634",
+   "required": false
+  },
+  {
+   "name": "district_rumuodumaya",
+   "file": "district_rumuodumaya-ce2bf44167564ca6.pck",
+   "hash": "ce2bf44167564ca6",
+   "size": 1704372,
+   "sha256": "44c18dc371fd1507ca6bc844a8ff4b28555727336c34899b7b2399c91b6510a5",
+   "required": false
+  },
+  {
+   "name": "district_rumuogba",
+   "file": "district_rumuogba-5e5aecbda780a3cc.pck",
+   "hash": "5e5aecbda780a3cc",
+   "size": 1519808,
+   "sha256": "a00161929422b0d066f6c55478f9182be0090edfa21b47ab3b81cfef26c5ac88",
+   "required": false
+  },
+  {
+   "name": "district_rumuokwuta",
+   "file": "district_rumuokwuta-71ac19aaa1aa9dec.pck",
+   "hash": "71ac19aaa1aa9dec",
+   "size": 2806484,
+   "sha256": "e95b79c1da1339e88b61644237be8173f24b87e56ce74d5a646e8e0519c563fc",
+   "required": false
+  },
+  {
+   "name": "district_rumuola",
+   "file": "district_rumuola-22efeedb8cbcc686.pck",
+   "hash": "22efeedb8cbcc686",
+   "size": 2923020,
+   "sha256": "0951949643ad95d1556f4fb573ea2d92f75b26ebf886c6f4ee302b885c8eeee9",
+   "required": false
+  },
+  {
+   "name": "district_rumuomasi",
+   "file": "district_rumuomasi-0e60231db1fad13c.pck",
+   "hash": "0e60231db1fad13c",
+   "size": 2494304,
+   "sha256": "78975f436839adaef61f1ce172e5f966d350d20385906adfd9f7eedfe213fd53",
+   "required": false
+  },
+  {
+   "name": "district_trans",
+   "file": "district_trans-64988760fcbc7321.pck",
+   "hash": "64988760fcbc7321",
+   "size": 2549112,
+   "sha256": "d87d87030274291ec089fd55ff2037deb7ef82b7e6d6cee1070c5cd04ceb58d2",
+   "required": false
+  },
+  {
+   "name": "district_woji",
+   "file": "district_woji-43d905c3a15549a0.pck",
+   "hash": "43d905c3a15549a0",
+   "size": 4921176,
+   "sha256": "d3dd990424fee7187626ad1212d02780ba7469b2950a1fbb0daf00c087c0ae15",
+   "required": false
+  }
+ ]
+}
