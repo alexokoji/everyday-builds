@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-24T20:17:22.097Z",
+ "generated": "2026-11-25T06:58:38.912Z",
  "min_app": 1,
  "packs": [
   {
@@ -50,6 +50,14 @@
    "size": 89731536,
    "sha256": "462da57121d5ab6ea9009ad640d6ee5b620c093fbd39e55f52a4037f94eaec8d",
    "required": false
+  },
+  {
+   "name": "business_misc",
+   "file": "business_misc-a6821753ab2583fa.pck",
+   "hash": "a6821753ab2583fa",
+   "size": 1186028,
+   "sha256": "bbe47a31df9b27bf630bfd9c0dd43d3725f237a1006543903b604fff4d063b4d",
+   "required": true
   },
   {
    "name": "city_common",
