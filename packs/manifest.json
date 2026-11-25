@@ -25,7 +25,7 @@
    "hash": "81bba9f4ae85003a",
    "size": 585700,
    "sha256": "aec091317e95a0c0cc8a12ef86cb9c0e741d27f6cb3dc6f3acb32282cfd6b21c",
-   "required": false
+   "required": true
   },
   {
    "name": "assets_kits",
