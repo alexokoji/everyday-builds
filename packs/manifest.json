@@ -1,7 +1,7 @@
 {
  "format": 1,
  "generated": "2026-11-27T13:00:32.273Z",
- "min_app": 1,
+ "min_app": 14,
  "packs": [
   {
    "name": "assets_animations",
@@ -483,5 +483,8 @@
    "sha256": "0108dd6741027183589ac71fd1863011c17b04d913ceec446636e1f0ebcd32c8",
    "required": true
   }
- ]
+ ],
+ "latest_app": 14,
+ "latest_name": "0.8.2",
+ "apk_url": "https://github.com/alexokoji/everyday-builds/raw/main/apk/everyday-latest.apk"
 }
