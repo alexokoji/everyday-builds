@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-25T07:32:52.238Z",
+ "generated": "2026-11-27T13:00:32.273Z",
  "min_app": 1,
  "packs": [
   {
@@ -53,10 +53,10 @@
   },
   {
    "name": "business_misc",
-   "file": "business_misc-a6821753ab2583fa.pck",
-   "hash": "a6821753ab2583fa",
-   "size": 1186028,
-   "sha256": "bbe47a31df9b27bf630bfd9c0dd43d3725f237a1006543903b604fff4d063b4d",
+   "file": "business_misc-844eebb5496b9270.pck",
+   "hash": "844eebb5496b9270",
+   "size": 1204540,
+   "sha256": "60158759baba73401e61b83d02ab8c577436950662d4c9d57ead12d2e81ea7af",
    "required": true
   },
   {
@@ -69,10 +69,10 @@
   },
   {
    "name": "city_misc",
-   "file": "city_misc-b3ce18872f795f26.pck",
-   "hash": "b3ce18872f795f26",
-   "size": 62109264,
-   "sha256": "1966d24719b68370eeeb175a68a7eb4e6369bc91fc817aca5e669daa48721314",
+   "file": "city_misc-870000ab2dd8a036.pck",
+   "hash": "870000ab2dd8a036",
+   "size": 61814832,
+   "sha256": "b597e68357bb80dea34a7671658d41095c5d1b6e7e06dc1235a22ba9a978c596",
    "required": true
   },
   {
@@ -466,6 +466,14 @@
    "size": 4921176,
    "sha256": "d3dd990424fee7187626ad1212d02780ba7469b2950a1fbb0daf00c087c0ae15",
    "required": false
+  },
+  {
+   "name": "map_misc",
+   "file": "map_misc-39bed24e4b026047.pck",
+   "hash": "39bed24e4b026047",
+   "size": 1422804,
+   "sha256": "16da79fa52dd4ae0c49f5ea1f04c52cfc693515875b9d487357e0ea6b00aea47",
+   "required": true
   },
   {
    "name": "vehicles_misc",
