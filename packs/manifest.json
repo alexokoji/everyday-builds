@@ -1,7 +1,10 @@
 {
  "format": 1,
- "generated": "2026-11-27T13:00:32.273Z",
+ "generated": "2026-11-27T20:14:21.072Z",
  "min_app": 14,
+ "latest_app": 16,
+ "latest_name": "0.9.0",
+ "apk_url": "https://github.com/alexokoji/everyday-builds/raw/main/apk/everyday-latest.apk",
  "packs": [
   {
    "name": "assets_animations",
@@ -477,14 +480,11 @@
   },
   {
    "name": "vehicles_misc",
-   "file": "vehicles_misc-b55c9f83ecfb673c.pck",
-   "hash": "b55c9f83ecfb673c",
-   "size": 18309788,
-   "sha256": "0108dd6741027183589ac71fd1863011c17b04d913ceec446636e1f0ebcd32c8",
+   "file": "vehicles_misc-71c0b7ae38a11bec.pck",
+   "hash": "71c0b7ae38a11bec",
+   "size": 20606316,
+   "sha256": "34fccf4cd59b9fa1b58f59935f0e69bee6ec7f704f5495eae31a4c86ec2e81a1",
    "required": true
   }
- ],
- "latest_app": 15,
- "latest_name": "0.8.3",
- "apk_url": "https://github.com/alexokoji/everyday-builds/raw/main/apk/everyday-latest.apk"
+ ]
 }
