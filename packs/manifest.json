@@ -484,7 +484,7 @@
    "required": true
   }
  ],
- "latest_app": 14,
- "latest_name": "0.8.2",
+ "latest_app": 15,
+ "latest_name": "0.8.3",
  "apk_url": "https://github.com/alexokoji/everyday-builds/raw/main/apk/everyday-latest.apk"
 }
