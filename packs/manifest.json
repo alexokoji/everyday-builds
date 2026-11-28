@@ -2,8 +2,8 @@
  "format": 1,
  "generated": "2026-11-27T20:14:21.072Z",
  "min_app": 14,
- "latest_app": 16,
- "latest_name": "0.9.0",
+ "latest_app": 17,
+ "latest_name": "0.9.1",
  "apk_url": "https://github.com/alexokoji/everyday-builds/raw/main/apk/everyday-latest.apk",
  "packs": [
   {
